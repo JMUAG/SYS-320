@@ -1,0 +1,4 @@
+---
+proxy:
+  attack: "QQ.*.exe.*-.*.com.*sent.*, recieved"
+  open: "QQ.*.exe.*HTTPS.*"
