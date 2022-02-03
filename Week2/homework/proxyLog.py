@@ -18,7 +18,7 @@ def proxy_events(filename, service, terms):
 
         #Append the split value to the found list
         #QQ.exe - tcpconn.tencent.com:80 close, 133 bytes sent, 0 bytes received
-        found.append(sp_results[0] + " " +  sp_results[2] + " " + sp_results[3] + " " + sp_results[4] + " bytes sent " + sp_results[7] + " bytes recieved")
+        found.append(sp_results[0] + " " + sp_results[2] + "  " + sp_results[3] + " " + sp_results[4] + " " + sp_results[5] + "  " + sp_results[6] + "  " + sp_results[7] + "  ")
         
     #Remove duplicates by using set to convert the list to a dictionary
     getValues = set(found)
