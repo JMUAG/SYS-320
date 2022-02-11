@@ -10,10 +10,17 @@ def urlHausOpen(filename,searchTerm):
 
         #results = []
 
+<<<<<<< HEAD
     for _ in range(9):
         next(contents)
 
         print(_)
+=======
+    for y in range(9):
+        next(contents)
+
+        print(y)
+>>>>>>> 8428287b6b39709e3b0ff797b980343ac442d728
     #for keyword in searchTerm:
 
         #for eachLine in contents:
