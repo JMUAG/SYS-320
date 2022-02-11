@@ -1,0 +1,6 @@
+['fs.py', '/tmp/']
+['/tmp//test', '/tmp/com.google.Keystone/.keystone_system_install_lock', '/tmp/com.google.Keystone/.keystone_install_lock', '/tmp/com.apple.launchd.imDui5lAXg/Listeners']
+0|/tmp//test|9148322|33216|501|0|0|1644543603|1644543603|1644543637|1644543637
+0|/tmp/com.google.Keystone/.keystone_system_install_lock|9128334|33188|501|0|0|1644516883|1644516883|1644516883|1644516883
+0|/tmp/com.google.Keystone/.keystone_install_lock|9128330|33206|501|0|0|1644516882|1644516882|1644516888|1644516888
+0|/tmp/com.apple.launchd.imDui5lAXg/Listeners|8135267|49590|501|0|0|1642497835|1642497835|1642497835|1642497835
