@@ -42,7 +42,7 @@ def _logs(filename, service, term):
                 #Append the return keywords to the results list
                 results.append(found)
 
-    #Check to see if there are results
+    #Check to see if there are mresults
     if len(results) == 0:
         print("No Results")
         sys.exit(1)

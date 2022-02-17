@@ -1,0 +1,10 @@
+- Yes, from the looks of the log files, there was successful communication present via the 
+c99.php file. It looked as if there were a multitude of bytes being downloaded at different times.
+There were also POST methods present via the /bin/sh lookups that were located across all the log files.
+
+-What I liked the most from this assignment was the fact that I was able
+to learn how to create arguments for a terminal in python and implement 
+my own in a real-world application. What I liked the least from this assignement was
+the amount of time it took me to master the concept, but it is due to my time out here in Dublin,
+I am not as focused as I should be due to different class structure, but that is something I am still working on.
+No necessary questions for now.

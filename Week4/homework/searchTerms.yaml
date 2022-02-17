@@ -1,0 +1,14 @@
+---
+shell_attacks:
+  winShell: ".*c99.php.*, .*/bin/sh.*, .*cmd.exe.*"
+
+sql_attacks:
+  sql: ".*phpmyadmin.*, .*mysql.*"
+
+trav_attacks:
+  etc: ".*/etc/passwd.*"
+
+cms_attacks:
+  cms: ".*joomla.*, .*wordpress.*, .*xmlrpc.*"
+
+
