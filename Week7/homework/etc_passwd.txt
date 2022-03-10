@@ -65,4 +65,3 @@ Unat1986:x:1029:1029::/home/Unat1986:/bin/bash
 Madve1942:x:1030:1030::/home/Madve1942:/bin/bash
 sssd:x:112:119:SSSD system user,,,:/var/lib/sss:/usr/sbin/nologin
 ### END cat passwd.txt ###
-
