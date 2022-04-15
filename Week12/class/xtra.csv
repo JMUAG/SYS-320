@@ -1,0 +1,113 @@
+"PSPath","PSParentPath","PSChildName","UnixStat","PSDrive","PSProvider","PSIsContainer","UnixMode","User","Group","Size","Mode","ModeWithoutHardLink","VersionInfo","BaseName","Target","LinkType","Length","DirectoryName","Directory","IsReadOnly","FullName","Extension","Name","Exists","CreationTime","CreationTimeUtc","LastAccessTime","LastAccessTimeUtc","LastWriteTime","LastWriteTimeUtc","LinkTarget","Attributes"
+"Microsoft.PowerShell.Core\FileSystem::/Users/jahseem/SYS-320-SP22/Week6/class/ssh_results.txt","Microsoft.PowerShell.Core\FileSystem::/Users/jahseem/SYS-320-SP22/Week6/class","ssh_results.txt","System.Management.Automation.Platform+Unix+CommonStat","/","Microsoft.PowerShell.Core\FileSystem","False","-rw-r--r--","jahseem","staff","148544","-----","-----","File:             /Users/jahseem/SYS-320-SP22/Week6/class/ssh_results.txt
+InternalName:     
+OriginalFilename: 
+FileVersion:      
+FileDescription:  
+Product:          
+ProductVersion:   
+Debug:            False
+Patched:          False
+PreRelease:       False
+PrivateBuild:     False
+SpecialBuild:     False
+Language:         
+","ssh_results",,,"148544","/Users/jahseem/SYS-320-SP22/Week6/class","/Users/jahseem/SYS-320-SP22/Week6/class","False","/Users/jahseem/SYS-320-SP22/Week6/class/ssh_results.txt",".txt","ssh_results.txt","True","3/2/2022 4:15:17 PM","3/2/2022 4:15:17 PM","3/2/2022 4:49:30 PM","3/2/2022 4:49:30 PM","3/2/2022 4:31:28 PM","3/2/2022 4:31:28 PM",,"Normal"
+"Microsoft.PowerShell.Core\FileSystem::/Users/jahseem/SYS-320-SP22/Week6/homework/ssh_results.txt","Microsoft.PowerShell.Core\FileSystem::/Users/jahseem/SYS-320-SP22/Week6/homework","ssh_results.txt","System.Management.Automation.Platform+Unix+CommonStat","/","Microsoft.PowerShell.Core\FileSystem","False","-rw-r--r--","jahseem","staff","133426","-----","-----","File:             /Users/jahseem/SYS-320-SP22/Week6/homework/ssh_results.txt
+InternalName:     
+OriginalFilename: 
+FileVersion:      
+FileDescription:  
+Product:          
+ProductVersion:   
+Debug:            False
+Patched:          False
+PreRelease:       False
+PrivateBuild:     False
+SpecialBuild:     False
+Language:         
+","ssh_results",,,"133426","/Users/jahseem/SYS-320-SP22/Week6/homework","/Users/jahseem/SYS-320-SP22/Week6/homework","False","/Users/jahseem/SYS-320-SP22/Week6/homework/ssh_results.txt",".txt","ssh_results.txt","True","3/4/2022 11:11:05 PM","3/4/2022 11:11:05 PM","3/4/2022 11:12:11 PM","3/4/2022 11:12:11 PM","3/4/2022 11:11:05 PM","3/4/2022 11:11:05 PM",,"Normal"
+"Microsoft.PowerShell.Core\FileSystem::/Users/jahseem/SYS-320-SP22/Week7/homework/auth_log.txt","Microsoft.PowerShell.Core\FileSystem::/Users/jahseem/SYS-320-SP22/Week7/homework","auth_log.txt","System.Management.Automation.Platform+Unix+CommonStat","/","Microsoft.PowerShell.Core\FileSystem","False","-rw-r--r--","jahseem","staff","425904","-----","-----","File:             /Users/jahseem/SYS-320-SP22/Week7/homework/auth_log.txt
+InternalName:     
+OriginalFilename: 
+FileVersion:      
+FileDescription:  
+Product:          
+ProductVersion:   
+Debug:            False
+Patched:          False
+PreRelease:       False
+PrivateBuild:     False
+SpecialBuild:     False
+Language:         
+","auth_log",,,"425904","/Users/jahseem/SYS-320-SP22/Week7/homework","/Users/jahseem/SYS-320-SP22/Week7/homework","False","/Users/jahseem/SYS-320-SP22/Week7/homework/auth_log.txt",".txt","auth_log.txt","True","3/10/2022 5:25:42 AM","3/10/2022 5:25:42 AM","3/10/2022 5:26:37 AM","3/10/2022 5:26:37 AM","3/10/2022 5:25:42 AM","3/10/2022 5:25:42 AM",,"Normal"
+"Microsoft.PowerShell.Core\FileSystem::/Users/jahseem/SYS-320-SP22/Week7/homework/etc_passwd.txt","Microsoft.PowerShell.Core\FileSystem::/Users/jahseem/SYS-320-SP22/Week7/homework","etc_passwd.txt","System.Management.Automation.Platform+Unix+CommonStat","/","Microsoft.PowerShell.Core\FileSystem","False","-rw-r--r--","jahseem","staff","3303","-----","-----","File:             /Users/jahseem/SYS-320-SP22/Week7/homework/etc_passwd.txt
+InternalName:     
+OriginalFilename: 
+FileVersion:      
+FileDescription:  
+Product:          
+ProductVersion:   
+Debug:            False
+Patched:          False
+PreRelease:       False
+PrivateBuild:     False
+SpecialBuild:     False
+Language:         
+","etc_passwd",,,"3303","/Users/jahseem/SYS-320-SP22/Week7/homework","/Users/jahseem/SYS-320-SP22/Week7/homework","False","/Users/jahseem/SYS-320-SP22/Week7/homework/etc_passwd.txt",".txt","etc_passwd.txt","True","3/10/2022 4:40:41 AM","3/10/2022 4:40:41 AM","3/10/2022 5:39:37 AM","3/10/2022 5:39:37 AM","3/10/2022 5:39:35 AM","3/10/2022 5:39:35 AM",,"Normal"
+"Microsoft.PowerShell.Core\FileSystem::/Users/jahseem/SYS-320-SP22/Week7/homework/kraken_results.txt","Microsoft.PowerShell.Core\FileSystem::/Users/jahseem/SYS-320-SP22/Week7/homework","kraken_results.txt","System.Management.Automation.Platform+Unix+CommonStat","/","Microsoft.PowerShell.Core\FileSystem","False","-rw-r--r--","jahseem","staff","1271","-----","-----","File:             /Users/jahseem/SYS-320-SP22/Week7/homework/kraken_results.txt
+InternalName:     
+OriginalFilename: 
+FileVersion:      
+FileDescription:  
+Product:          
+ProductVersion:   
+Debug:            False
+Patched:          False
+PreRelease:       False
+PrivateBuild:     False
+SpecialBuild:     False
+Language:         
+","kraken_results",,,"1271","/Users/jahseem/SYS-320-SP22/Week7/homework","/Users/jahseem/SYS-320-SP22/Week7/homework","False","/Users/jahseem/SYS-320-SP22/Week7/homework/kraken_results.txt",".txt","kraken_results.txt","True","3/9/2022 8:07:11 PM","3/9/2022 8:07:11 PM","3/9/2022 8:07:13 PM","3/9/2022 8:07:13 PM","3/9/2022 8:07:11 PM","3/9/2022 8:07:11 PM",,"Normal"
+"Microsoft.PowerShell.Core\FileSystem::/Users/jahseem/SYS-320-SP22/Week7/homework/last.txt","Microsoft.PowerShell.Core\FileSystem::/Users/jahseem/SYS-320-SP22/Week7/homework","last.txt","System.Management.Automation.Platform+Unix+CommonStat","/","Microsoft.PowerShell.Core\FileSystem","False","-rw-r--r--","jahseem","staff","7745","-----","-----","File:             /Users/jahseem/SYS-320-SP22/Week7/homework/last.txt
+InternalName:     
+OriginalFilename: 
+FileVersion:      
+FileDescription:  
+Product:          
+ProductVersion:   
+Debug:            False
+Patched:          False
+PreRelease:       False
+PrivateBuild:     False
+SpecialBuild:     False
+Language:         
+","last",,,"7745","/Users/jahseem/SYS-320-SP22/Week7/homework","/Users/jahseem/SYS-320-SP22/Week7/homework","False","/Users/jahseem/SYS-320-SP22/Week7/homework/last.txt",".txt","last.txt","True","3/10/2022 6:02:02 AM","3/10/2022 6:02:02 AM","3/10/2022 6:02:04 AM","3/10/2022 6:02:04 AM","3/10/2022 6:02:02 AM","3/10/2022 6:02:02 AM",,"Normal"
+"Microsoft.PowerShell.Core\FileSystem::/Users/jahseem/SYS-320-SP22/Week7/homework/lsof_results.txt","Microsoft.PowerShell.Core\FileSystem::/Users/jahseem/SYS-320-SP22/Week7/homework","lsof_results.txt","System.Management.Automation.Platform+Unix+CommonStat","/","Microsoft.PowerShell.Core\FileSystem","False","-rw-r--r--","jahseem","staff","17103","-----","-----","File:             /Users/jahseem/SYS-320-SP22/Week7/homework/lsof_results.txt
+InternalName:     
+OriginalFilename: 
+FileVersion:      
+FileDescription:  
+Product:          
+ProductVersion:   
+Debug:            False
+Patched:          False
+PreRelease:       False
+PrivateBuild:     False
+SpecialBuild:     False
+Language:         
+","lsof_results",,,"17103","/Users/jahseem/SYS-320-SP22/Week7/homework","/Users/jahseem/SYS-320-SP22/Week7/homework","False","/Users/jahseem/SYS-320-SP22/Week7/homework/lsof_results.txt",".txt","lsof_results.txt","True","3/9/2022 8:07:40 PM","3/9/2022 8:07:40 PM","3/10/2022 1:15:33 AM","3/10/2022 1:15:33 AM","3/10/2022 1:15:32 AM","3/10/2022 1:15:32 AM",,"Normal"
+"Microsoft.PowerShell.Core\FileSystem::/Users/jahseem/SYS-320-SP22/Week7/homework/running_processes.txt","Microsoft.PowerShell.Core\FileSystem::/Users/jahseem/SYS-320-SP22/Week7/homework","running_processes.txt","System.Management.Automation.Platform+Unix+CommonStat","/","Microsoft.PowerShell.Core\FileSystem","False","-rw-r--r--","jahseem","staff","12022","-----","-----","File:             /Users/jahseem/SYS-320-SP22/Week7/homework/running_processes.txt
+InternalName:     
+OriginalFilename: 
+FileVersion:      
+FileDescription:  
+Product:          
+ProductVersion:   
+Debug:            False
+Patched:          False
+PreRelease:       False
+PrivateBuild:     False
+SpecialBuild:     False
+Language:         
+","running_processes",,,"12022","/Users/jahseem/SYS-320-SP22/Week7/homework","/Users/jahseem/SYS-320-SP22/Week7/homework","False","/Users/jahseem/SYS-320-SP22/Week7/homework/running_processes.txt",".txt","running_processes.txt","True","3/10/2022 3:15:01 AM","3/10/2022 3:15:01 AM","3/10/2022 3:15:03 AM","3/10/2022 3:15:03 AM","3/10/2022 3:15:01 AM","3/10/2022 3:15:01 AM",,"Normal"
